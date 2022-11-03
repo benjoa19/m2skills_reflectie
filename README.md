@@ -1,6 +1,14 @@
 # m1skills_reflectie
----
 
+
+
+
+
+
+
+
+
+---
 ## Astrid Prins 
 
 ---
