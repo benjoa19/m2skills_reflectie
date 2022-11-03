@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # m2skills_reflectie
 ## Benjamin Wakuteka
 
@@ -9,8 +7,6 @@
 *hoe ik een repository moest maken, en met andere mensen collaboraten*    
 - waarvan zou ik nog meer willen weten    
 *hoe ik een repository kan verwijderen*    
-
-=======
 
 ---
 ## Astrid Prins 
@@ -32,8 +28,6 @@ Verder zou ik ook meer willen weten (als er meer over te weten valt) met het del
 Dat zullen we vast en zeker voor de rest van onze carriere in software development gebruiken.  
 
 ---
->>>>>>> origin/Astrid
-=======
 
 ## Amber Scherer
 ---
@@ -50,4 +44,4 @@ Ik kwam op deze opleiding met geen idee hoe ik met computers moet werken behalve
 - Waarvan zou ik nog meer willen weten?
 
 Persoonlijk zou ik graag meer over File zilla willen weten hoe het precies in elkaar zit en wat welk knopje doet.
->>>>>>> origin/Amber
+
